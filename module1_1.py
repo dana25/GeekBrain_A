@@ -1,0 +1,5 @@
+a = input("enter your name: ")
+print(f"{a}")
+b = int(input("enter your age: "))
+print(b)
+print(f"please confirm your name {a} and age {b}")
